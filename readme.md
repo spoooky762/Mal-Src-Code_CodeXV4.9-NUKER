@@ -8,12 +8,17 @@ For the reason of the executable "running smoother"
 &
 The Actual Executable being a .exe and not as a Compressed .zip file & set with a read only flag.
 
-Win Defender lit up upon download completing 
-Nice RAT bro
+
+
+
 ![WinDefendSS](https://github.com/spoooky762/CodeXV4.9-NUKER/blob/TOOLS/CodexXV4_MSD_Malware_Detect-.PNG)
 
+Win Defender lit up upon download completing 
+Nice RAT bro
 
-=======================ORIGINAL-AUTHORS-README==============================================
+
+========================ORIGINAL-AUTHORS-README==========================================
+
 FOR I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS PROGRAM THIS IS FOR EDUCATIONAL USE ONLY.
 
 
@@ -83,9 +88,12 @@ Requirements
 • An active internet connection.
 
 and boom you are done just run CodexV4.9.9.0
+
+
+
 ===============END-OF-ORIGINAL-README==========================
 
-the above SS of so called Stats is quite literally Named "fake" in the README's Formating :|
+the above SS of so called "Grabbed Info" is quite literally Named "fake" in the README's Formating :|
 
 thats pretty much all from me So Stay Safe out there And Have fun
 -Spoooky762
